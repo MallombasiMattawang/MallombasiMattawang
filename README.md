@@ -32,9 +32,9 @@
 
 <br>
 
-<p align="left"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MallombasiMattawang&langs_count=10&theme=tokyonight&layout=compact" alt="MallombasiMattawang :: Top Langs" /></p>
+<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MallombasiMattawang&langs_count=10&theme=tokyonight&layout=compact" alt="MallombasiMattawang :: Top Langs" />
   <br>
 
-<p>&nbsp;<img width="50%" align="center" src="https://github-readme-stats.vercel.app/api?username=MallombasiMattawang&show_icons=true&theme=tokyonight&locale=en"
-    alt="MallombasiMattawang" /></p>
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=MallombasiMattawang&show_icons=true&theme=tokyonight&locale=en"
+    alt="MallombasiMattawang" />
     
