@@ -4,8 +4,6 @@
 
 <br>
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" height="400" alt="awan" /></p>
-
 
 - 🌱 I’m currently learning Aplication development with Laravel and React JS
 
@@ -35,6 +33,6 @@
 <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MallombasiMattawang&langs_count=10&theme=tokyonight&layout=compact" alt="MallombasiMattawang :: Top Langs" />
   <br>
 
-<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=MallombasiMattawang&show_icons=true&theme=tokyonight&locale=en"
+<img width="50%" align="left" src="https://github-readme-stats.vercel.app/api?username=MallombasiMattawang&show_icons=true&theme=tokyonight&locale=en"
     alt="MallombasiMattawang" />
     
